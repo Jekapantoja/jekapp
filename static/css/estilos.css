@@ -191,5 +191,9 @@ footer{
 		font-family: font2;
 		font-weight: 700;
 		letter-spacing: 1px;
+		font-size: 12px;
+	}
+	.bottom{
+		font-size: 20px;
 	}
 }
